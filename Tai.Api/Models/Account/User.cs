@@ -23,7 +23,7 @@ namespace Tai.Api.Models.Account
         public string NickName { get; set; }
 
         /// <summary>
-        /// password
+        /// password dont show
         /// </summary>
         public string PassWord { get; set; }
 
